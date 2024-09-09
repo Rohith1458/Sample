@@ -1,0 +1,10 @@
+.TaskItem {
+    border: 10px solid #131313;
+    border: 4px;
+    padding: 6px 8px;
+    margin-bottom: 6px;
+  }
+  .header{
+       border: 1px solid black;
+       border-width: 10px;
+  }
